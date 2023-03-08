@@ -1,4 +1,4 @@
-### Olá, sou o RAFAEL MINSKI, graduado em ECONOMIA e graduando entusiasta em DESENVOLVIMENTO FULL STACK! 👋
+### Olá, sou o RAFAEL MINSKI, graduado em ECONOMIA e graduando entusiasta em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS! 👋
 ##
 
 
