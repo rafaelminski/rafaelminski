@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho em uma empresa de telecomunicações.
-- 🌱 Atualmente estou aprendendo, html, css, bootstrap, java, Python e seus frameworks.
+- 🌱 Atualmente estou aprendendo, html, css, bootstrap,javaScript, java, Python e seus frameworks.
 
 <div align="center">
   <a href="https://github.com/rafaelminski">
