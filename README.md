@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente trabalho em uma empresa de telecomunicações.
+- 🔭 Atualmente trabalho como analista de desenvolvimento em uma empresa do setor do agronegócio.
 - 🌱 Atualmente estou aprendendo, html, css, bootstrap,javaScript, java, Python e seus frameworks.
 
 <div align="center">
